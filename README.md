@@ -1,1 +1,4 @@
 # All-In-One-News-Hub
+</br>
+In today’s digital world, people rely on multiple news platforms to stay updated about current affairs, entertainment, sports, technology, and other topics. However, switching between various websites or apps can be time-consuming and inconvenient.
+“All in One News Hub” is a web-based application designed to solve this problem by providing a single platform that aggregates news from multiple sources and categories. Users can easily browse the latest headlines, read detailed articles, and explore different sections and available in various languages — all in one place.
